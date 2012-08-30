@@ -97,9 +97,9 @@ public class Inicio extends MIDlet {
         Display.init(this);
         try {
             //Carga el archivo res del tema
-            Resources r = Resources.open("/res/tema.res");
+            Resources r = Resources.open("/res/Clasic.res");
             //Selecciona el tema en el archivo
-            UIManager.getInstance().setThemeProps(r.getTheme("Tema"));
+            UIManager.getInstance().setThemeProps(r.getTheme("Clasic"));
         } catch (IOException ioe) {
             System.out.println("Error al cargar el tema : " + ioe);
         }
