@@ -1,5 +1,5 @@
 package clases;
-//prueba repositorio hola flaco
+//prueba repositorio...
 import com.sun.lwuit.*;
 import com.sun.lwuit.events.ActionEvent;
 import com.sun.lwuit.events.ActionListener;
