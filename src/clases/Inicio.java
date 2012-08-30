@@ -103,7 +103,7 @@ public class Inicio extends MIDlet {
         } catch (IOException ioe) {
             System.out.println("Error al cargar el tema : " + ioe);
         }
-     //Creo el objeto para controlar la red
+    //Creo el objeto para controlar la red
         Red = new Red();
     //Creo el formulario
     f = new Form("DOMOTICA 0.0.1");
