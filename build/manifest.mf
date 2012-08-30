@@ -1,0 +1,8 @@
+MIDlet-1: Inicio, , clases.Inicio
+MIDlet-Permissions: javax.microedition.io.Connector.socket, javax.microedition.io.Connector.file.read, javax.microedition.location.LandmarkStore.read, javax.microedition.io.Connector.file.write
+MIDlet-Vendor: Vendor
+MIDlet-Name: DomoticaGrafica
+Navi-Key-Hidden: true
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
