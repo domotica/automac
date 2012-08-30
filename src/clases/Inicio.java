@@ -1,5 +1,5 @@
 package clases;
-//prueba repocitorio   
+//prueba repocitorio
 import com.sun.lwuit.*;
 import com.sun.lwuit.events.ActionEvent;
 import com.sun.lwuit.events.ActionListener;
